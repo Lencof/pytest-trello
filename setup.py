@@ -1,4 +1,5 @@
 import os
+import re
 import sys
 import glob
 import shutil
@@ -158,3 +159,5 @@ setup(
         'Programming Language :: Python :: 3.4',
     ],
 )
+
+os.exit()
