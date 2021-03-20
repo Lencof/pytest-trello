@@ -1,8 +1,11 @@
-tox
-pytest
-pytest-cov
-coverage
-coveralls
-trello
-pypandoc
-PyYAML
+# __Author__ __Lencof__
+# test-requirements.txt
+
+pip install tox
+pip install pytest
+pip install pytest-cov
+pip install coverage
+pip install coveralls
+pip install trello
+pip install pypandoc
+pip install PyYAML
