@@ -1,3 +1,6 @@
+# __Author__ __Lencof__
+# setup.py
+
 import os
 import re
 import sys
