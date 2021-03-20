@@ -1,7 +1,12 @@
 # -*- coding: utf-8 -*-
+# __Author__ __Lencof__
+# test_pytest_trello.py
+
 import pytest
 import inspect
 import re
+import os
+import sys
 
 from _pytest.main import EXIT_OK, EXIT_NOTESTSCOLLECTED
 
