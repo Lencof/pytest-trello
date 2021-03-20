@@ -1,6 +1,7 @@
 import os
 import re
 import sys
+import unix
 import glob
 import shutil
 from setuptools import setup, Command
